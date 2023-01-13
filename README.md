@@ -14,7 +14,7 @@ N/A
 
 After clicking the generate password button, the window would prompt a series of steps to the user that include password length and types of characters (uppercase,lowercase, numbers , and special characters). Based on the user's input a random password would be then generated as a window alert.
 
-Screenshot:
+## Screenshot:
 <img width="860" alt="Password Generator" src="https://user-images.githubusercontent.com/119475435/212228037-6fd1007c-5a3a-4adc-90ae-f314282430dc.png">
 
 ## License
